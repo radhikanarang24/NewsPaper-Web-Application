@@ -1,0 +1,10 @@
+Unzip the folders fe and berest
+
+-> fe 
+----> start json server
+----> open brackets live preview
+
+-> berest
+----> start mongo 
+----> another cmd window-npm start
+----> send requests in postman port 3443
